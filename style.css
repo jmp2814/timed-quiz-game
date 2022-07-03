@@ -1,0 +1,101 @@
+body {
+    font-family: monospace;
+    background-color: cadetblue;
+    margin: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: midnightblue;
+    padding: 5px;
+}
+
+header.a.text {
+    font-size: 50px;
+}
+
+#time {
+    min-width: 85px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    color:cornsilk;
+    background-color: coral;
+    padding: 2px;
+    border-radius: 5px;
+    border: none;
+}
+
+.inline-buttons {
+    display: inline-flex;
+}
+
+.card {
+    max-width: 80%;
+    margin-top: 15px;
+    border: solid;
+    border-width: 2px;
+    padding: 5px;
+    border-radius: 30px;
+    border-color: lightgray;
+    box-shadow: 10px 5px 5px lightgray;
+}
+
+#start-screen {
+    display: inline;
+    text-align: center;
+}
+
+.option-button {
+    width: 100%;
+    text-align: left;
+    margin: 5px;
+}
+
+#result-div {
+    display: none;
+}
+
+.inline-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#name {
+    width: 25%;
+    margin: 8px;
+    padding: 1px;
+}
+
+#back-button {
+    margin-right: 8px;
+}
+
+.highscore-list {
+    padding-inline-start: 20px;
+}
+
+@media screen and (min-width: 850px) {
+    .card {
+        max-width: 680px;
+    }
+}
+
+@media (hover) {
+    a:hover {
+        color:aquamarine;
+    }
+
+    button:hover {
+        background-color: rgba(33, 131, 127, 0.5);
+    }
+}
