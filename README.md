@@ -1,5 +1,8 @@
 # timed-quiz-game
 
+***Link to deployed application***
+https://jmp2814.github.io/timed-quiz-game/
+
 *GIVEN I am taking a code quiz
 
 *WHEN I click the start button
