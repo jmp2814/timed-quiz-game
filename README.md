@@ -22,12 +22,12 @@
 
 *THEN I can save my initials and score
 
-![startquiz] (/assets/images/startQuiz.png)
+![startquiz](/assets/images/startQuiz.png)
 
-![correct] (/assets/images/correct.png)
+![correct](/assets/images/correct.png)
 
-![wrong] (/assets/images/wrong.png)
+![wrong](/assets/images/wrong.png)
 
-![enterName] (/assets/images/enterName.png)
+![enterName](/assets/images/enterName.png)
 
-![scoreList] (/assets/images/scoreList.png)
+![scoreList](/assets/images/scoreList.png)
